@@ -1,4 +1,4 @@
-# hackathon
+# Prince's Trust
 
 ## Challenges?
 
