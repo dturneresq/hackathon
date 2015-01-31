@@ -1,6 +1,6 @@
 # hackathon
 
-h1. Challenges?
+## Challenges?
 
 - 1 vs 1 - whoever loses challenge, makes donation
 
