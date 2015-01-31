@@ -10,7 +10,7 @@
 - Corporate sponsorship - offer prize for people to complete something
 - Verified challenges
 - Popular or templated or suggested challenges
+- Group challenges
 - Sponsored/corporate challenges
-
 - Sign up
 - Private or group/social
