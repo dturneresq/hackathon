@@ -1,0 +1,14 @@
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/BYOC.Android.Framework.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/BYOC.Android.Framework.dll.mdb
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/BYOC.Android.Framework.dll
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/BYOC.Android.Framework.apk
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/android/bin/BYOC.Android.Framework.apk
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/res/values/strings.xml
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/R.cs.flag
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/BYOC.Android.Framework-Signed.apk
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/uploadflags.txt
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/BYOC.Android.Framework.dll
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/obj/Debug/BYOC.Android.Framework.dll.mdb
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/JustGiving.Api.Sdk.dll
+/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/Microsoft.Http.dll

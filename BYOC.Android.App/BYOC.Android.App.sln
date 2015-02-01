@@ -3,15 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYOC.Android.App", "BYOC.Android.App\BYOC.Android.App.csproj", "{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYOC.Android.Framework", "..\BYOC.Android.Framework\BYOC.Android.Framework.csproj", "{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Default|Any CPU = Default|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Default|Any CPU.Build.0 = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
