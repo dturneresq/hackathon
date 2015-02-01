@@ -10,19 +10,34 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 		Default|Any CPU = Default|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Debug|x86.Build.0 = Debug|Any CPU
 		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Default|Any CPU.ActiveCfg = Debug|Any CPU
 		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Default|Any CPU.Build.0 = Debug|Any CPU
 		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Release|x86.ActiveCfg = Release|Any CPU
+		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Release|x86.Build.0 = Release|Any CPU
+		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Staging|Any CPU.ActiveCfg = Debug|Any CPU
+		{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}.Staging|Any CPU.Build.0 = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Debug|x86.Build.0 = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Default|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Default|Any CPU.Build.0 = Debug|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Release|x86.Build.0 = Release|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Staging|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4B78FA-26DA-4455-AA6F-3E05F7CB15DF}.Staging|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

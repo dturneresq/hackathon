@@ -4,7 +4,7 @@ namespace BYOC.Core
 {
 	public static class GlobalConfiguration
 	{
-		public static string JustGivingApiKey = "ad9247ec";
+		public static string ApiKey = "ad9247ec";
 	}
 }
 

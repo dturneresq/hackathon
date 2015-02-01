@@ -43,9 +43,6 @@
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
-    <Reference Include="Microsoft.Http">
-      <HintPath>..\..\JustGiving\Microsoft.Http.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />

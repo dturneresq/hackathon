@@ -1,38 +1,24 @@
 ﻿using System;
-using JustGiving.Api.Sdk;
-using JustGiving.Api.Sdk.Model.Account;
 
 namespace BYOC.Core
 {
 	public class AccountService
 	{
-		private readonly JustGivingClient client;
+		private readonly IApiClient client;
 
-		public AccountService ()
+		public Account GetAccount(Guid id)
 		{
-			client = new JustGivingClient (GlobalConfiguration.JustGivingApiKey);
+			return client.GetAccount (id);
 		}
 
-		public string GetAccount()
+		public bool CreateAccount(string email, string password, string firstName, string lastName)
 		{
-			var account = client.Account.RetrieveAccount ();
-
-			return "";
+			return client.CreateAccount (email, password, firstName, lastName);
 		}
 
-		public string CreateAccount(string email, string password, string firstName, string lastName)
+		public bool Authenticate(string email, string password)
 		{
-			var createAccountRequest = new CreateAccountRequest {
-				Email = email,
-				Password = password,
-				FirstName = firstName,
-				LastName = lastName
-			};
-
-			string response = client.Account.Create (createAccountRequest);
-
-			return "";
+			return client.Authenticate (email, password);
 		}
 	}
 }
-
