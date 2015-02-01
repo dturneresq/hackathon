@@ -69,9 +69,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\..\BYOC.Android.Framework\BYOC.Android.Framework.csproj">
-      <Project>{B8FB9EF1-34C5-4215-87A3-683B57CF1E06}</Project>
-      <Name>BYOC.Android.Framework</Name>
+    <ProjectReference Include="..\..\BYOC.Core\BYOC.Core.csproj">
+      <Project>{19576AB8-E5CC-4374-AF44-7EFF2ADABB4C}</Project>
+      <Name>BYOC.Core</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
