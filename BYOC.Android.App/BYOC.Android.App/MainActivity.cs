@@ -6,7 +6,6 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using JustGiving;
 
 namespace BYOC.Android.App
 {

@@ -1,1 +1,0 @@
-BYOC.Android.App.MainActivity;byoc.android.app.MainActivity

@@ -1,2 +1,0 @@
-/Users/timothyclifford/hackathon/BYOC.Android.App/BYOC.Android.App/bin/Debug/BYOC.Android.App.dll
-/Users/timothyclifford/hackathon/BYOC.Android.Framework/bin/Debug/BYOC.Android.Framework.dll

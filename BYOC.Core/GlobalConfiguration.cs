@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BYOC.Android.Framework
+namespace BYOC.Core
 {
 	public static class GlobalConfiguration
 	{
